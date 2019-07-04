@@ -30,5 +30,5 @@ This course applies the tools available to University of Phoenix graduate studen
   - Evaluate performance against established standards.
   - Recommend actions to reduce performance gaps.
 
-- Business Ethics
+- [Business Ethics](Wee6_Ethics)
   - Evaluate the ethicality of business decisions.
