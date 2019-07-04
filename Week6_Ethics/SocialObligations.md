@@ -31,5 +31,3 @@ Some people would describe it as "selling out" but being able to isolate corpora
 At that advertising agency your responsibility is to provide a service to the customer that is exceptional and complete. That is what they pay you for and that is why you've worked so hard for so long.
 
 The cigarette company is not violating any laws, and has just as much right to exist as the next organization. As we start down the slippery slope of cherry picking soon we will be unethical through discrimination in our actions.
-
-
