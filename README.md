@@ -22,7 +22,7 @@ This course applies the tools available to University of Phoenix graduate studen
   - Identify the optimal organizational structure of organizations.
   - Determine how work is done by teams.
 
-- Leading
+- [Leading](Week4_Leading)
   - Differentiate between various leadership theories.
   - Determine leadership approach based on individuals and the situation.
 
