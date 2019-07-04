@@ -26,7 +26,7 @@ This course applies the tools available to University of Phoenix graduate studen
   - Differentiate between various leadership theories.
   - Determine leadership approach based on individuals and the situation.
 
-- Controlling
+- [Controlling](Week5_Controlling)
   - Evaluate performance against established standards.
   - Recommend actions to reduce performance gaps.
 
