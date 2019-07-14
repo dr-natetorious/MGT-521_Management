@@ -7,6 +7,7 @@
 
 - [Benchmarking Performance](Benchmarking.md): How can we measure control functions.
 - [Multi National Control](MultiNationalControl.md): How does different localities impact control.
+- [Regulation](Regulation.md): Impact of the SOX Act.
 
 ## Assignment
 
